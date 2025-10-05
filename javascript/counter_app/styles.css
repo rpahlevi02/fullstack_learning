@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background: darkred;
+    color: white;
+    font-size: 24px;
+    padding: 7px 30px;
+    border-radius: 10px;
+    margin: 5px auto;
+    cursor: pointer;
+    width:200px;
+}
+
+#save-btn {
+    background: green;
+}

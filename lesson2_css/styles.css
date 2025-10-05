@@ -1,0 +1,95 @@
+input.main {
+    width: 800;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    line-height:12px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:30px;
+    padding-right:30px;
+    border: 1px #dfe1e5 solid;
+    border-radius:24px;
+}
+
+img.main {
+    width: 600;
+    display: block;
+    margin-bottom:25px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+button.btn {
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color: rgba(209, 209, 209, 0.858);
+    border: 1px solid rgb(223, 223, 223);
+    border-radius:5px;
+    font-size:20px;
+}
+
+div.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top:20px;
+}
+
+div.main {
+    margin-top:100px;
+    text-align: center;
+}
+
+div.red {
+    background:red;
+    height:100px;
+}
+div.blue {
+    background:blue;
+    height:100px;
+}
+div.green{
+    background:green;
+    height:100px;
+}
+
+div.card {
+    width:400px;
+    background:lightblue;
+    font-size:20px;
+    color:white;
+    margin-top:200px;
+    margin-left:auto;
+    margin-right:auto;
+    
+    border: 6px rgb(110, 106, 106) solid;
+    border-radius:50px;
+
+    padding:50px;
+}
+
+div.test {
+    border-color:blue;
+    margin-left:auto;
+    margin-right:auto;
+    width:100px;
+    margin-top: 50px;
+}
+
+button.test {
+    color: #0f1419;
+    border-radius:50px;
+    font-size: 20px;
+    border: 1px solid #cfd9de;
+    background: white;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-weight:bold;
+}
