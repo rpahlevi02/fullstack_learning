@@ -1,0 +1,14 @@
+body {
+    width:100%;
+}
+
+div {
+    display: inline-block;
+    padding:1px 24px;
+    margin:10px;
+    background: rgb(66, 66, 249);
+    border-radius: 5px;
+    color:white;
+    font-size: 24px;
+    width: 250px;
+}
